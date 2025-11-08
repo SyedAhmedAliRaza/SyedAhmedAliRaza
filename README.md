@@ -34,32 +34,32 @@ Git • GitHub • VS Code • Postman • Vercel • Google Cloud • Dev-C++
 
 ## 🚀 Projects
 
-### 🌐 [Personal Portfolio Website](https://github.com/SyedAhmedAliRaza/portfolio)
+### 🌐 [Personal Portfolio Website](https://github.com/SyedAhmedAliRaza/Personal-Portfolio)
 A full-stack portfolio using **Next.js, React, Tailwind CSS, and Node.js**, showcasing my AI projects and development journey.
 
-### ⚙️ [User Management REST API](https://github.com/SyedAhmedAliRaza/user-management-api)
+### ⚙️ [User Management REST API](https://github.com/SyedAhmedAliRaza/User-Management-REST-API)
 Engineered a **Node.js + Express + SQLite** REST API handling 1,000+ records with efficient CRUD operations and authentication.
 
-### 👟 [Shoe Store Sneak Peek](https://github.com/SyedAhmedAliRaza/shoe-store)
+### 👟 [Shoe Store Sneak Peek](https://github.com/SyedAhmedAliRaza/Shoe-Store-Sneak-Peak)
 Delivered a **responsive e-commerce site** with product cards, authentication, and engaging UI to improve user experience and navigation.
 
-### 📱 [Mobile Store Showcase](https://github.com/SyedAhmedAliRaza/mobile-store)
+### 📱 [Mobile Store Showcase](https://github.com/SyedAhmedAliRaza/Mobile-Store)
 Built a sleek **smartphone showcase homepage** using HTML, CSS, and JavaScript with emphasis on accessibility and visual appeal.
 
-### 🎵 [KARVAN – Music Streaming Platform](https://github.com/SyedAhmedAliRaza/music-streaming-platform)
+### 🎵 [Music Streaming Platform](https://github.com/SyedAhmedAliRaza/Music-Streaming-Platform)
 A futuristic, responsive **landing page for a music streaming platform** with dynamic animations, smooth theme transitions, and immersive glowing effects built with HTML, Tailwind CSS, and JavaScript.
 
-### ✈️ [Airline Reservation System](https://github.com/SyedAhmedAliRaza/airline-reservation-system)
+### ✈️ [Airline Reservation System](https://github.com/SyedAhmedAliRaza/Airline-Reservation-System)
 Designed an **OOP-based Java backend** automating flight scheduling and ticket management, reducing manual entry errors.
 
-### 🧠 [AI Document Chatbot](https://github.com/SyedAhmedAliRaza/ai-document-chatbot)
-Developed a **Streamlit RAG chatbot** powered by **Llama-3.2-1B-Instruct**, achieving 80% accurate contextual document-based answers.
-
-### 🚢 [Titanic Survival Prediction](https://github.com/SyedAhmedAliRaza/titanic-survival)
+### 🚢 [Titanic Survival Prediction](https://github.com/SyedAhmedAliRaza/Titanic-Survival-Prediction)
 Implemented a **Decision Tree Model** with 82% accuracy and 83% recall through feature engineering, data cleaning, and visualization insights.
 
-### 🔤 [Urdu OCR System](https://github.com/SyedAhmedAliRaza/urdu-ocr-system)
+### 🔤 [Urdu OCR System](https://github.com/SyedAhmedAliRaza/Urdu-OCR-System)
 Built a **Python-Tesseract OCR pipeline** with preprocessing for Naskh script, achieving strong recognition accuracy in Urdu text extraction.
+
+### 🧠 [AI Document Chatbot](https://github.com/SyedAhmedAliRaza/AI-Document-Chatbot)
+Developed a **Streamlit RAG chatbot** powered by **Llama-3.2-1B-Instruct**, achieving 80% accurate contextual document-based answers.
 
 ---
 

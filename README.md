@@ -9,26 +9,27 @@
 I’m a **Computer Science student at DHA Suffa University** with a strong passion for **AI-driven full-stack development**.  
 I specialize in building intelligent web systems that merge modern front-end design with powerful machine learning and backend automation.  
 
-My goal is to develop solutions that are not only functional but also adaptive — blending **React.js, Next.js, Node.js**, and **AI frameworks** like PyTorch and LangChain to create smarter user experiences.
+My goal is to develop solutions that are not only functional but also adaptive — blending **React.js, Next.js, Node.js**, and **AI frameworks** like **PyTorch** and **LangChain** to create smarter user experiences.
 
 ---
 
 ## 🧰 Skills & Tools
 
 ### 🧑‍💻 Programming Languages
-C/C++ • Java • JavaScript (ES6+) • Python • Dart • PHP  
+C/C++ • Java • JavaScript (ES6+) • Python • Dart • Flutter • PHP  
 
 ### 🌐 Web Development
-HTML5 • CSS3 • Bootstrap • Tailwind CSS • React.js • Next.js • Node.js • Express.js • REST APIs  
+HTML5 • CSS3 • Bootstrap • Tailwind CSS • Vite • TypeScript • React.js • Next.js • Node.js • Express.js • REST APIs • Authentication (OAuth, JWT, Express Session) • JSON
 
-### 🧩 Databases & Cloud
-PostgreSQL • MySQL • MariaDB • MongoDB • SQLite • Supabase • Google Cloud Platform  
+### 🧩 Databases
+PostgreSQL • MySQL • MariaDB • MongoDB • SQLite • Supabase 
 
 ### 🧠 Artificial Intelligence & Machine Learning
-LangChain • PyTorch • OpenCV • LLM Integration • FAISS • RAG Pipelines • Scikit-learn • NumPy • Pandas • Matplotlib • Seaborn  
+LangChain • PyTorch • OpenCV • LLM Integration • FAISS • RAG Pipelines • Vector embeddings • Scikit-learn • NumPy • Pandas • Matplotlib • Seaborn • Pillow 
+• NLP • Jiwer 
 
 ### ⚙️ Tools & Platforms
-Git • GitHub • VS Code • Postman • Vercel • Google Cloud • Dev-C++  
+VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google Cloud • Dev-C++ • Apache NetBeans
 
 ---
 
@@ -71,7 +72,7 @@ Developed a **Streamlit RAG chatbot** powered by **Llama-3.2-1B-Instruct**, achi
 
 ---
 
-## ✨ Fun / Optional
+## ✨ Personal Interests
 
 ⚡ Always exploring **how AI can enhance full-stack systems**  
 🎮 **Gamer** | 📸 **Photographer** | 🏋️‍♂️ **Gym Enthusiast** | 🎧 **Music Lover**  

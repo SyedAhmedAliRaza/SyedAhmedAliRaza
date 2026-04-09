@@ -57,17 +57,16 @@ Designed an **OOP-based Java backend** automating flight scheduling and ticket m
 Implemented a **Decision Tree Model** with 82% accuracy and 83% recall through feature engineering, data cleaning, and visualization insights.
 
 ### 🔤 [Urdu OCR System](https://github.com/SyedAhmedAliRaza/Urdu-OCR-System)
-Built a **Python-Tesseract OCR pipeline** with preprocessing for Naskh script, achieving strong recognition accuracy in Urdu text extraction.
+Engineered **Lafz-Aashna**, an AI-powered Urdu OCR System that extracts text from PDFs and images using **Tesseract** and **OpenCV**, featuring real-time web processing, confidence scoring, and evaluation metrics (WER ~26%, CER ~11%).
 
 ### 🧠 [AI Document Chatbot](https://github.com/SyedAhmedAliRaza/AI-Document-Chatbot)
-Developed a **Streamlit RAG chatbot** powered by **Llama-3.2-1B-Instruct**, achieving 80% accurate contextual document-based answers.
+Built **RAG-Hive**, a Streamlit-based RAG chatbot using **FAISS** and **Llama-3.2-1B-Instruct** for fast, context-aware document Q&A over PDF, DOCX, and TXT files.
 
 ### 📊 [FinAgent](https://github.com/SyedAhmedAliRaza/FinAgent)
-FinAgent Pro is a next-generation AI-driven financial analysis platform built with Streamlit + CrewAI + Gemini.
-It enables users to analyze stocks in real-time, combining market data, news insights, and AI-driven strategy into a concise institutional-grade report.
+Architectured **Multi-agent AI system** for real-time stock analysis, sentiment detection, and strategy generation using **CrewAI** and **Gemini**.
 
 ### 🌍 [Aero-Rescue AI](https://github.com/SyedAhmedAliRaza/Aero-Rescue-AI)
-AI-powered global respiratory safety and air-quality aware travel risk intelligence system.
+Constructed **Streamlit-based AI platform** integrating real-time AQI, pollen, wildfire, and medical risk data for global health analytics.
 
 
 ---

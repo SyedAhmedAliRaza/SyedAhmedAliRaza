@@ -62,6 +62,14 @@ Built a **Python-Tesseract OCR pipeline** with preprocessing for Naskh script, a
 ### 🧠 [AI Document Chatbot](https://github.com/SyedAhmedAliRaza/AI-Document-Chatbot)
 Developed a **Streamlit RAG chatbot** powered by **Llama-3.2-1B-Instruct**, achieving 80% accurate contextual document-based answers.
 
+### 📊 [FinAgent](https://github.com/SyedAhmedAliRaza/FinAgent)
+FinAgent Pro is a next-generation AI-driven financial analysis platform built with Streamlit + CrewAI + Gemini.
+It enables users to analyze stocks in real-time, combining market data, news insights, and AI-driven strategy into a concise institutional-grade report.
+
+### 🌍 [Aero-Rescue AI](https://github.com/SyedAhmedAliRaza/Aero-Rescue-AI)
+AI-powered global respiratory safety and air-quality aware travel risk intelligence system.
+
+
 ---
 
 ## 📫 Contact Info

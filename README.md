@@ -50,17 +50,26 @@ A dynamic, physics-driven **2D** racing game built with **Flutter**, leveraging 
 ### 🔍 [Midnight Murder Mystery](https://github.com/SyedAhmedAliRaza/Midnight-Murder-Mystery)
 A mobile-first, **Progressive Web App (PWA)** built with **React** where players investigate a murder scene using a flashlight mechanic and solve puzzles before time runs out.
 
-### 🌐 [Personal Portfolio Website](https://github.com/SyedAhmedAliRaza/Personal-Portfolio)
-A full-stack portfolio using **Next.js, React, Tailwind CSS, and Node.js**, showcasing my AI projects and development journey.
+### 🌍 [Aero-Rescue AI](https://github.com/SyedAhmedAliRaza/Aero-Rescue-AI)
+Constructed **Streamlit-based AI platform** integrating real-time AQI, pollen, wildfire, and medical risk data for global health analytics.
+
+### 📊 [FinAgent](https://github.com/SyedAhmedAliRaza/FinAgent)
+Architectured **Multi-agent AI system** for real-time stock analysis, sentiment detection, and strategy generation using **CrewAI** and **Gemini**.
+
+### 🧠 [AI Document Chatbot](https://github.com/SyedAhmedAliRaza/AI-Document-Chatbot)
+Built **RAG-Hive**, a Streamlit-based RAG chatbot using **FAISS** and **Llama-3.2-1B-Instruct** for fast, context-aware document Q&A over PDF, DOCX, and TXT files.
+
+### 🔤 [Urdu OCR System](https://github.com/SyedAhmedAliRaza/Urdu-OCR-System)
+Engineered **Lafz-Aashna**, an AI-powered Urdu OCR System that extracts text from PDFs and images using **Tesseract** and **OpenCV**, featuring real-time web processing, confidence scoring, and evaluation metrics (WER ~26%, CER ~11%).
 
 ### ⚙️ [User Management REST API](https://github.com/SyedAhmedAliRaza/User-Management-REST-API)
 Engineered a **Node.js + Express + SQLite** REST API handling 1,000+ records with efficient CRUD operations and authentication.
 
-### 👟 [Shoe Store Sneak Peek](https://github.com/SyedAhmedAliRaza/Shoe-Store-Sneak-Peak)
-Delivered a **responsive e-commerce site** with product cards, authentication, and engaging UI to improve user experience and navigation.
+### 🌐 [Personal Portfolio Website](https://github.com/SyedAhmedAliRaza/Personal-Portfolio)
+A full-stack portfolio using **Next.js, React, Tailwind CSS, and Node.js**, showcasing my AI projects and development journey.
 
-### 📱 [Mobile Store Showcase](https://github.com/SyedAhmedAliRaza/Mobile-Store)
-Built a sleek **smartphone showcase homepage** using HTML, CSS, and JavaScript with emphasis on accessibility and visual appeal.
+### 🚢 [Titanic Survival Prediction](https://github.com/SyedAhmedAliRaza/Titanic-Survival-Prediction)
+Implemented a **Decision Tree Model** with 82% accuracy and 83% recall through feature engineering, data cleaning, and visualization insights.
 
 ### 🎵 [Music Streaming Platform](https://github.com/SyedAhmedAliRaza/Music-Streaming-Platform)
 A futuristic, responsive **landing page for a music streaming platform** with dynamic animations, smooth theme transitions, and immersive glowing effects built with HTML, Tailwind CSS, and JavaScript.
@@ -68,21 +77,11 @@ A futuristic, responsive **landing page for a music streaming platform** with dy
 ### ✈️ [Airline Reservation System](https://github.com/SyedAhmedAliRaza/Airline-Reservation-System)
 Designed an **OOP-based Java backend** automating flight scheduling and ticket management, reducing manual entry errors.
 
-### 🚢 [Titanic Survival Prediction](https://github.com/SyedAhmedAliRaza/Titanic-Survival-Prediction)
-Implemented a **Decision Tree Model** with 82% accuracy and 83% recall through feature engineering, data cleaning, and visualization insights.
+### 👟 [Shoe Store Sneak Peek](https://github.com/SyedAhmedAliRaza/Shoe-Store-Sneak-Peak)
+Delivered a **responsive e-commerce site** with product cards, authentication, and engaging UI to improve user experience and navigation.
 
-### 🔤 [Urdu OCR System](https://github.com/SyedAhmedAliRaza/Urdu-OCR-System)
-Engineered **Lafz-Aashna**, an AI-powered Urdu OCR System that extracts text from PDFs and images using **Tesseract** and **OpenCV**, featuring real-time web processing, confidence scoring, and evaluation metrics (WER ~26%, CER ~11%).
-
-### 🧠 [AI Document Chatbot](https://github.com/SyedAhmedAliRaza/AI-Document-Chatbot)
-Built **RAG-Hive**, a Streamlit-based RAG chatbot using **FAISS** and **Llama-3.2-1B-Instruct** for fast, context-aware document Q&A over PDF, DOCX, and TXT files.
-
-### 📊 [FinAgent](https://github.com/SyedAhmedAliRaza/FinAgent)
-Architectured **Multi-agent AI system** for real-time stock analysis, sentiment detection, and strategy generation using **CrewAI** and **Gemini**.
-
-### 🌍 [Aero-Rescue AI](https://github.com/SyedAhmedAliRaza/Aero-Rescue-AI)
-Constructed **Streamlit-based AI platform** integrating real-time AQI, pollen, wildfire, and medical risk data for global health analytics.
-
+### 📱 [Mobile Store Showcase](https://github.com/SyedAhmedAliRaza/Mobile-Store)
+Built a sleek **smartphone showcase homepage** using HTML, CSS, and JavaScript with emphasis on accessibility and visual appeal.
 
 ---
 

@@ -35,6 +35,21 @@ VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google 
 
 ## 🚀 Projects
 
+### 🩺 [Diabetes Diagnostic AI](https://github.com/SyedAhmedAliRaza/Diabetes-Diagnostic-AI)
+An **AI-powered** clinical application that utilizes an **ANN model** trained on the **Pima Indians Diabetes Database** to deliver fast, accurate, and data-driven diabetes risk predictions.
+
+### 🤖 [Custom Knowledge Chatbot](https://github.com/SyedAhmedAliRaza/Custom-Knowledge-Chatbot)
+A production-grade **RAG** chatbot that enables users to upload and query custom documents through a **FastAPI** and **Next.js** stack, leveraging **Pinecone**, **LangChain**, and **Groq LLM** for intelligent, context-aware interactions.
+
+### ⚙️ [Machine Failure Prediction System](https://github.com/SyedAhmedAliRaza/Machine-Failure-Prediction-System)
+A full-stack predictive maintenance platform that leverages machine learning and real-time sensor data to monitor industrial equipment and forecast potential failures through an interactive **Next.js** web application.
+
+### 🏍️ [Sand Bike Simulator](https://github.com/SyedAhmedAliRaza/Sand-Bike-Simulator)
+A dynamic, physics-driven **2D** racing game built with **Flutter**, leveraging the **Flame engine** and **Forge2D** to deliver realistic vehicle mechanics and immersive gameplay.
+
+### 🔍 [Midnight Murder Mystery](https://github.com/SyedAhmedAliRaza/Midnight-Murder-Mystery)
+A mobile-first, **Progressive Web App (PWA)** built with **React** where players investigate a murder scene using a flashlight mechanic and solve puzzles before time runs out.
+
 ### 🌐 [Personal Portfolio Website](https://github.com/SyedAhmedAliRaza/Personal-Portfolio)
 A full-stack portfolio using **Next.js, React, Tailwind CSS, and Node.js**, showcasing my AI projects and development journey.
 

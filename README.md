@@ -101,7 +101,7 @@ Built a sleek **smartphone showcase homepage** using HTML, CSS, and JavaScript w
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SyedAhmedAliRaza&label=Profile%20Views&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAhmedAliRaza&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SyedAhmedAliRaza&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAhmedAliRaza&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedAhmedAliRaza&layout=compact&theme=radical)
 

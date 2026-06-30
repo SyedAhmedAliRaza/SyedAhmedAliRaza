@@ -99,6 +99,9 @@ Built a sleek **smartphone showcase homepage** using HTML, CSS, and JavaScript w
 🎮 **Gamer** | 📸 **Photographer** | 🏋️‍♂️ **Gym Enthusiast** | 🎧 **Music Lover**  
 🌌 Inspired by **technology, creativity, and meaningful digital design**
 
-![Profile Views](https://komarev.com/ghpvc/?username=SyedAhmedAliRaza&label=Profile%20Views&color=blue&style=flat)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAhmedAliRaza&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAhmedAliRaza&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=SyedAhmedAliRaza&label=Profile%20Views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAhmedAliRaza&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAhmedAliRaza&layout=compact&theme=radical&hide_border=true)
+

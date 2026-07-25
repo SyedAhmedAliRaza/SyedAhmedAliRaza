@@ -16,19 +16,19 @@ My goal is to develop solutions that are not only functional but also adaptive �
 ## 🧰 Skills & Tools
 
 ### 🧑‍💻 Programming Languages
-JavaScript (ES6+) • Java • Python • SQL • Dart • Flutter   
+ JavaScript (ES6+) • Java • Python • SQL • Dart • Flutter   
 
 ### 🌐 Web Development
-HTML5 • CSS3 • Bootstrap • Tailwind CSS • TypeScript • React.js • Next.js • Node.js • Express.js • REST APIs(Fast API) • Authentication (OAuth, JWT, Express Session) • JSON • Prisma ORM • NextAuth
+ HTML5 • CSS3 • Bootstrap • Tailwind CSS • TypeScript • React.js • Next.js • Node.js • Express.js • REST APIs(Fast API) • Authentication (OAuth, JWT, Express  Session) • JSON • Prisma ORM • NextAuth
 
 ### 🧩 Databases
-MySQL • MongoDB • SQLite  
+ MySQL • MongoDB • SQLite  
 
 ### 🧠 Artificial Intelligence & Machine Learning
-LangChain • PyTorch • TensorFlow • Keras • OpenCV • NLP • Scikit-learn • NumPy • Pandas • Matplotlib •  Seaborn • Pillow • Jiwer • LLM Integration • RAG Pipelines • FAISS • Pinecome • Hugging Face Embeddings • Feature Engineering • Exploratory Data Analysis (EDA) • Image Processing • OCR • CrewAI • BeautifulSoup
+ LangChain • PyTorch • TensorFlow • Keras • OpenCV • NLP • Scikit-learn • NumPy • Pandas • Matplotlib •  Seaborn • Pillow • Jiwer • LLM Integration • RAG Pipelines • FAISS • Pinecome • Hugging Face Embeddings • Feature Engineering • Exploratory Data Analysis (EDA) • Image Processing • OCR • CrewAI • BeautifulSoup
 
 ### ⚙️ Tools & Platforms
-VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google Cloud • Hugging Face Spaces • Streamlit 
+ VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google Cloud • Hugging Face Spaces • Streamlit 
 
 ---
 

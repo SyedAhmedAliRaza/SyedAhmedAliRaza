@@ -16,20 +16,19 @@ My goal is to develop solutions that are not only functional but also adaptive �
 ## 🧰 Skills & Tools
 
 ### 🧑‍💻 Programming Languages
-C/C++ • Java • JavaScript (ES6+) • Python • Dart • Flutter • PHP  
+JavaScript (ES6+) • Java • Python • SQL • Dart • Flutter   
 
 ### 🌐 Web Development
-HTML5 • CSS3 • Bootstrap • Tailwind CSS • Vite • TypeScript • React.js • Next.js • Node.js • Express.js • REST APIs • Authentication (OAuth, JWT, Express Session) • JSON
+HTML5 • CSS3 • Bootstrap • Tailwind CSS • TypeScript • React.js • Next.js • Node.js • Express.js • REST APIs(Fast API) • Authentication (OAuth, JWT, Express Session) • JSON • Prisma ORM • NextAuth
 
 ### 🧩 Databases
-PostgreSQL • MySQL • MariaDB • MongoDB • SQLite • Supabase 
+MySQL • MongoDB • SQLite  
 
 ### 🧠 Artificial Intelligence & Machine Learning
-LangChain • PyTorch • OpenCV • LLM Integration • FAISS • RAG Pipelines • Vector embeddings • Scikit-learn • NumPy • Pandas • Matplotlib • Seaborn • Pillow 
-• NLP • Jiwer 
+LangChain • PyTorch • TensorFlow • Keras • OpenCV • NLP • Scikit-learn • NumPy • Pandas • Matplotlib •  Seaborn • Pillow • Jiwer • LLM Integration • RAG Pipelines • FAISS • Pinecome • Hugging Face Embeddings • Feature Engineering • Exploratory Data Analysis (EDA) • Image Processing • OCR • CrewAI • BeautifulSoup
 
 ### ⚙️ Tools & Platforms
-VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google Cloud • Dev-C++ • Apache NetBeans
+VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google Cloud • Hugging Face Spaces • Streamlit 
 
 ---
 

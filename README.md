@@ -25,7 +25,7 @@ HTML5 • CSS3 • Bootstrap • Tailwind CSS • TypeScript • React.js • Ne
 MySQL • MongoDB • SQLite  
 
 ### 🧠 Artificial Intelligence & Machine Learning
-PyTorch • TensorFlow • Keras • OpenCV • NLP • Scikit-learn • NumPy • Pandas • Matplotlib •  Seaborn • Pillow • Jiwer • LLM Integration • RAG Pipelines • FAISS • Pinecome • Hugging Face Embeddings • Feature Engineering • Exploratory Data Analysis (EDA) • Image Processing • OCR • CrewAI • Langchain • BeautifulSoup
+PyTorch • TensorFlow • Keras • OpenCV • NLP • Scikit-learn • NumPy • Pandas • Matplotlib •  Seaborn • Pillow • Jiwer • LLM Integration • RAG Pipelines • FAISS • Pinecone • Hugging Face Embeddings • Feature Engineering • Exploratory Data Analysis (EDA) • Image Processing • OCR • CrewAI • Langchain • BeautifulSoup
 
 ### ⚙️ Tools & Platforms
 VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google Cloud • Hugging Face Spaces • Streamlit 

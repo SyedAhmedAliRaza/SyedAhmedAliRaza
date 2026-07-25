@@ -35,6 +35,9 @@ VS Code • Git • GitHub • GitHub Actions • Vercel • Postman • Google 
 
 ## 🚀 Projects
 
+### 🔬 [MoleSense AI](https://github.com/SyedAhmedAliRaza/MoleSense-AI)
+An **AI-powered** full-stack web application for early skin cancer detection. Powered by a **CNN** trained on **Skin Cancer MNIST: HAM10000 Database**, it classifies lesion images as benign or malignant, calculates confidence scores, visualizes Grad-CAM heatmaps, provides automated recommendations, and generates downloadable PDF medical reports.
+
 ### 🩺 [Diabetes Diagnostic AI](https://github.com/SyedAhmedAliRaza/Diabetes-Diagnostic-AI)
 An **AI-powered** clinical application that utilizes an **ANN model** trained on the **Pima Indians Diabetes Database** to deliver fast, accurate, and data-driven diabetes risk predictions.
 
